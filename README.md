@@ -30,12 +30,12 @@ Este projeto foi criado como parte dos requisitos do curso da **Universidade Uni
 ---
 ## 👥 **Contribuindo**
 
-Vinícius Macêdo
-Gabriel Freitas
-Andrey Eloy
-Erasmo Porto
-Anderson Gabriel
-Marcelo Antônio
+- Vinícius Macêdo
+- Gabriel Freitas
+- Andrey Eloy
+- Erasmo Porto
+- Anderson Gabriel
+- Marcelo Antônio
 
 ---
 ## 💻 **Instalação**
