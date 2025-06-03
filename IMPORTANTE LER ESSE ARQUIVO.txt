@@ -1,0 +1,12 @@
+Galera fiz o commit e push no GitHub, editei bastante do código, tanto o html quanto o css
+
+coloquei as imagens e ajustei o código, deem uma olhada nas mudanças
+
+usem o GPT só para ajuda e ensinarem a vocês da melhor forma ome!!!! aprendam a aprender com o gpt tutorial 2025:
+
+exemplo de script: 
+
+quero aprender {[tema]}, me ensina passo a passo, sem me dar o código, só explicando e detalhando o máximo possível.
+
+
+enfim, basicamente o projeto está pronto, apaguem esse arquivo quando lerem
