@@ -1,2 +1,2 @@
 # techconnect2025
-Project requested by my professor Luciana at Unifacisa University.
+Projeto para a Entrega 2 da competência Programar Web Front End ministrada pela professora Luciana Lunguinho
